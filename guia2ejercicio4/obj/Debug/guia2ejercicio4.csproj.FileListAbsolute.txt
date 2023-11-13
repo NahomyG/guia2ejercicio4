@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\bin\Debug\guia2ejercicio4.exe.config
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\bin\Debug\guia2ejercicio4.exe
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\bin\Debug\guia2ejercicio4.pdb
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\obj\Debug\guia2ejercicio4.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\obj\Debug\guia2ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\obj\Debug\guia2ejercicio4.exe
+C:\Users\gabri\source\repos\guia2ejercicio4\guia2ejercicio4\obj\Debug\guia2ejercicio4.pdb
